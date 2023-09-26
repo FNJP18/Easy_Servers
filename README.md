@@ -1,1 +1,1 @@
-# Easy Server Operation for Minecraft
+# Easy Server Operator for Minecraft
