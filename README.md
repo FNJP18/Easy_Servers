@@ -1,1 +1,1 @@
-# Easy Servers
+# Easy Server Builder for Minecraft
